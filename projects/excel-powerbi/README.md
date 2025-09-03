@@ -2,8 +2,8 @@
 This folder contains an analysis project using a healthcare dataset.
 
 ## Dataset Information 
-- **Source : **Kaggle Heathcare Dataset
-- **Format: **Excel(.xlsx)
+- **Source :** Kaggle Heathcare Dataset
+- **Format:** Excel(.xlsx)
 - **Contents:**
   - Patient demographics (age,gender,region)
   - Health records (visits, diagnosis, treatment details)
