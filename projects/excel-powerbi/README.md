@@ -10,7 +10,7 @@ This folder contains an analysis project using a healthcare dataset.
   - Cost and billing information
 
 ## Planned Analysis 
-- Data cleaning and preparation in **Excel / Python (pandas)**
+- Data cleaning and preparation in **Power BI / Python (pandas)**
 - Creating **CTEs (Common Table Expressions)** in Power BI for advanced filtering
 - Building **Power BI dashboards** to show:
    - Patient visists trends
@@ -18,7 +18,6 @@ This folder contains an analysis project using a healthcare dataset.
    - Common diagnoses and treatments
 
 ## Tools 
-- Excel
 - Power BI
 - Python (optional, for deeper analysis and visualization)
   
